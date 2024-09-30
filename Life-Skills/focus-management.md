@@ -28,7 +28,7 @@ Deep Work, as defined by Cal Newport, refers to the ability to focus without dis
 
 ### Dangers of Social Media
 
-**Question 4**: _**What are the dangers of social media, in brief?**_ 
+**Question 4**: _**What are the dangers of social media, in brief?**_
 Social media can significantly reduce your ability to focus, causing distraction and promoting shallow thinking. It encourages multitasking and shortens attention spans. Moreover, it can create a false sense of productivity while consuming time and energy, which could be better used for meaningful work.
 
 ### Diffused Mode
